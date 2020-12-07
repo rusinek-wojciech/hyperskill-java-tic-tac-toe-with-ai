@@ -1,4 +1,4 @@
-package org.ikinsure.medium.tictactoeai;
+package org.ikinsure.tictactoeai;
 
 /**
  * The class represents player

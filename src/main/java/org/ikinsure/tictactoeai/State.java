@@ -1,4 +1,4 @@
-package org.ikinsure.medium.tictactoeai;
+package org.ikinsure.tictactoeai;
 
 /**
  * All possible states of Tic-Tac-Toe game

@@ -1,4 +1,4 @@
-package org.ikinsure.medium.tictactoeai;
+package org.ikinsure.tictactoeai;
 
 import java.util.InputMismatchException;
 import java.util.Random;

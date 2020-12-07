@@ -1,4 +1,4 @@
-package org.ikinsure.medium.tictactoeai;
+package org.ikinsure.tictactoeai;
 
 /**
  * Class with tools for Tic-Tac-Toe game
